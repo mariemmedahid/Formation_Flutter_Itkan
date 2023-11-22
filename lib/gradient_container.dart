@@ -24,9 +24,11 @@ class GradientContainer extends StatelessWidget{
         child: Center(
           child:DiceRoller(),
           //styled_text("hello mariem"),
+          
          
           
         ),
+        
       );
   }
   
